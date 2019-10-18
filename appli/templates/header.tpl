@@ -7,11 +7,14 @@
 		<meta name="description" content="whatever"/>
 		<link href="styles/style.css" rel="stylesheet" type="text/css"/>
 		<script type="text/javascript" src="js/pathos.js" charset="utf-8"></script>
+		<aside>
+			<div id="menu">
+				<ul>
+					<li><a href="http://localhost/appli/?action=accueil">Accueil</a></li>
+					<li><a href="http://localhost/appli/?action=recherche_patho">Recherche par pathologie</a></li>
+					<li><a href="http://localhost/appli/?action=recherche_symptome">Recherche par symptome</a></li>
+					<li><a href="http://localhost/appli/?action=patho_prcp">Pathologie principales</a></li>
+				</ul>
+			</div>
+		</aside>
 	</head>
-	<body>
-	<div id="content">
-		<p>Pas de template associé</p>
-		<p>Essayez peut-être <a href="http://localhost/appli/?action=accueil">Accueil du site</a>?</p>
-	</div>
-</body>
-</html>

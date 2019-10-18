@@ -6,12 +6,14 @@
 		<title>{$title}</title>
 		<meta name="description" content="whatever"/>
 		<link href="styles/style.css" rel="stylesheet" type="text/css"/>
-		<script type="text/javascript" src="js/pathos.js" charset="utf-8"></script>
 	</head>
 	<body>
 	<div id="content">
-		<p>Pas de template associé</p>
-		<p>Essayez peut-être <a href="http://localhost/appli/?action=accueil">Accueil du site</a>?</p>
+		<p>Deconnecté</p>
+		<p> Cliquez <a href="http://localhost/appli/?action=test"> ici </a> pour revenir à la page d'accueil </p>
+		<script>
+	 
+		</script>
 	</div>
 </body>
 </html>

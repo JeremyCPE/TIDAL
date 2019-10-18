@@ -25,9 +25,9 @@ function test(){
 
 	class BD{
 	
-		private $dbName = "cinema";//mettre le nom de votre base de donnée
+		private $dbName = "tp";//mettre le nom de votre base de donnée
 		private $pass = "tp"; //donnez le mot de passe de votre bd 
-		private $user = "root"; //donnez le nom d'utilisateur de la bd (probablement "root")
+		private $user = "tp"; //donnez le nom d'utilisateur de la bd (probablement "root")
 		
 		private function getDB(){
 			$db = null;
